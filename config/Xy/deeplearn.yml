@@ -1,0 +1,10 @@
+ops:
+  - name: 'bad_events'
+    config:
+      which_datas:
+        - train
+      events:
+        - 40202849
+  - name: 'include_coeff_station'
+    config:
+remove_outliers: true
